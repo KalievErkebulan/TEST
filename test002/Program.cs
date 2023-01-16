@@ -1,5 +1,6 @@
-﻿int numberA = 51;
-int numberB = 52;
-int result = numberA + numberB;
+﻿int numberA = new Random().Next(1, 10);
+int numberB = new Random().Next(1, 10);
+int result = numberA / numberB; 
 Console.WriteLine(result); 
-   
+Console.WriteLine(numberA); 
+Console.WriteLine(numberB); 
