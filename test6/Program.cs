@@ -1,21 +1,17 @@
 ﻿Console.Clear();
-
-int f1 = 1;
-int f2 = 2;
-int dg = 5;
-int f; 
-int count = 0;
-int di = 10;
-
-while(di > 1)
+float firstFriend = 1;
+float secondFriend = 2;
+float dogSpeed = 5;
+float friend; 
+float count = 0;
+float Distance = 0;
+float difSpeedFriend = secondFriend - firstFriend;
+float currentCount;
+while(Distance < 10)
 {
-    int T;
-    if(f1 == 1 ){
-       T = di/(f1+dg);
-    } 
-    
-    if(f2 == 2){
-        T = di/(f2+dg);
-    }
-    count++;
+Distance = Distance+difSpeedFriend;
+currentCount = (dogSpeed/Distance);
+Console.WriteLine(currentCount);
+count = count+currentCount;
 }
+Console.WriteLine(count);
