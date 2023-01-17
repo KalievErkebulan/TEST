@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\practise3.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\practise3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\practise3.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\practise3.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\practise3.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Examples\practise3\bin\Debug\net6.0\practise3.exe
+C:\Users\Madara\Desktop\Examples\practise3\bin\Debug\net6.0\practise3.deps.json
+C:\Users\Madara\Desktop\Examples\practise3\bin\Debug\net6.0\practise3.runtimeconfig.json
+C:\Users\Madara\Desktop\Examples\practise3\bin\Debug\net6.0\practise3.dll
+C:\Users\Madara\Desktop\Examples\practise3\bin\Debug\net6.0\practise3.pdb
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\practise3.dll
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\refint\practise3.dll
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\practise3.pdb
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\practise3.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Examples\practise3\obj\Debug\net6.0\ref\practise3.dll
