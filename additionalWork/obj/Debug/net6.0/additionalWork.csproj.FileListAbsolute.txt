@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Examples\additionalWork\bin\Debug\net6.0\additionalWork.exe
+C:\Users\Madara\Desktop\Examples\additionalWork\bin\Debug\net6.0\additionalWork.deps.json
+C:\Users\Madara\Desktop\Examples\additionalWork\bin\Debug\net6.0\additionalWork.runtimeconfig.json
+C:\Users\Madara\Desktop\Examples\additionalWork\bin\Debug\net6.0\additionalWork.dll
+C:\Users\Madara\Desktop\Examples\additionalWork\bin\Debug\net6.0\additionalWork.pdb
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\additionalWork.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\additionalWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\additionalWork.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\additionalWork.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\additionalWork.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\additionalWork.dll
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\refint\additionalWork.dll
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\additionalWork.pdb
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\additionalWork.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Examples\additionalWork\obj\Debug\net6.0\ref\additionalWork.dll
