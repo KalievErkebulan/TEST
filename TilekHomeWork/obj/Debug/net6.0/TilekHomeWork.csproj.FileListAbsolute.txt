@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\bin\Debug\net6.0\TilekHomeWork.exe
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\bin\Debug\net6.0\TilekHomeWork.deps.json
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\bin\Debug\net6.0\TilekHomeWork.runtimeconfig.json
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\bin\Debug\net6.0\TilekHomeWork.dll
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\bin\Debug\net6.0\TilekHomeWork.pdb
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\TilekHomeWork.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\TilekHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\TilekHomeWork.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\TilekHomeWork.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\TilekHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\TilekHomeWork.dll
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\refint\TilekHomeWork.dll
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\TilekHomeWork.pdb
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\TilekHomeWork.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Examples\TilekHomeWork\obj\Debug\net6.0\ref\TilekHomeWork.dll
