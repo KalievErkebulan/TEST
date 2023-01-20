@@ -1,0 +1,15 @@
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\bin\Debug\net6.0\Seminar2HomeWork3.exe
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\bin\Debug\net6.0\Seminar2HomeWork3.deps.json
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\bin\Debug\net6.0\Seminar2HomeWork3.runtimeconfig.json
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\bin\Debug\net6.0\Seminar2HomeWork3.dll
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\bin\Debug\net6.0\Seminar2HomeWork3.pdb
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\Seminar2HomeWork3.csproj.AssemblyReference.cache
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\Seminar2HomeWork3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\Seminar2HomeWork3.AssemblyInfoInputs.cache
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\Seminar2HomeWork3.AssemblyInfo.cs
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\Seminar2HomeWork3.csproj.CoreCompileInputs.cache
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\Seminar2HomeWork3.dll
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\refint\Seminar2HomeWork3.dll
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\Seminar2HomeWork3.pdb
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\Seminar2HomeWork3.genruntimeconfig.cache
+C:\Users\Madara\Desktop\Examples\Seminar2HomeWork3\obj\Debug\net6.0\ref\Seminar2HomeWork3.dll
